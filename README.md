@@ -9,11 +9,11 @@ The theorem states that:
 
 If p is a prime, this is true.
 
-If it is not a prime, the probability that this is true is `1/p`, since `p` can have `p` number of different remainders `(0, 1, 2, ... , p-1)`.
+If it is not a prime, the probability that this is true is `1/p` since `p` can have `p` many different remainders `(0, 1, 2, ... , p-1)`.
 
 The algorithm returns True if the condition for the theorem is true, and False if the condition is false.
 
-So, even though the algorithm does not guarantee to give a true result whether the number is prime or not, the risk of error gets lower as the number increases. 
+So, even though the algorithm does not guarantee to give a true result whether the number is prime or not, the risk of being mistaken gets lower as the number increases. 
 
 The benefit of this algorithm is that it is significantly faster than other primality checking methods even if it does not guarantee a result.
 
