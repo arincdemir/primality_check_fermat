@@ -24,5 +24,5 @@ def primetestfermat(p):
 
 
 
-print(primetestfermat(2*3*5*7*11*13*7*19*23))
+#print(primetestfermat(2*3*5*7*11*13*7*19*23-1))
     
